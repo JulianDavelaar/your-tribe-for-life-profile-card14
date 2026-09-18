@@ -1,3 +1,6 @@
+<script>
+    let { data } = $props();
+</script>
 
 
 <section id="home">
