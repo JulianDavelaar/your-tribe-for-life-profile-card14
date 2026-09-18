@@ -80,7 +80,7 @@
 <style>
 
     #home {
-        background-color: var(--antraciet);
+        background-color: var(--primary-color);
         min-height: 100svh;
         padding: 15px 25px;
         
@@ -130,7 +130,7 @@
 
     a {
         text-decoration: none;
-        color: var(--wit);
+        color: var(--text-color);
     }
 
     img {
@@ -142,8 +142,8 @@
     }
 
     article {
-        background-color: var(--antraciet);
-        border:solid 2px rgb(from var(--grey) r g b / 30%);
+        background-color: var(--primary-color);
+        border:solid 2px rgb(from var(--border-color) r g b / 30%);
         padding: .5rem;
     }
 </style>
